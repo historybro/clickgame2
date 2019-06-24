@@ -1,0 +1,32 @@
+.Jumbotron {
+    min-height: 400px;
+    padding: 180px 20px;
+    padding-bottom: 140px;
+    text-align: center;
+    display: block;
+    box-sizing: border-box;
+    /* background-image: url("https://soundontime.com/wp-content/uploads/2018/10/Vaporwave-Aesthetic.jpg"); */
+    background-image: url("https://c.wallhere.com/photos/46/36/vaporwave_statue-1243625.jpg!d");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: #00C4FA;
+    text-shadow: 2px 2px #FD00DE;
+    font-family: 'Monoton', cursive;
+    margin-top: 10px;
+}
+
+.textbar {
+    background: black;
+}
+
+.btn {
+    font-family: 'Monoton', cursive;
+    color: #00C4FA;
+    text-shadow: 1px 1px #FD00DE;
+    background-color: #321E3A;
+}
+  
+.btn:hover {
+    color: yellow;
+}

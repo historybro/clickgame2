@@ -1,0 +1,31 @@
+.win {
+    min-height: 400px;
+    padding: 180px 20px;
+    padding-bottom: 140px;
+    text-align: center;
+    display: block;
+    box-sizing: border-box;
+    background-image: url("https://snworksceo.imgix.net/bsd/2af5201b-24a2-44ab-8aaf-c0194f7a82f0.sized-1000x1000.png?w=800");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: #00C4FA;
+    text-shadow: 2px 2px #FD00DE;
+    font-family: 'Monoton', cursive;
+    margin-top: 10px;
+}
+
+.wintext {
+    background: black;
+}
+
+.btn {
+    font-family: 'Monoton', cursive;
+    color: #00C4FA;
+    text-shadow: 1px 1px #FD00DE;
+    background-color: #321E3A;
+}
+  
+.btn:hover {
+    color: yellow;
+}
