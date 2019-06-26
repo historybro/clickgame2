@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url("../public/vpwww.jpg");
+    background-image: url("./images/vpwww.jpg");
     background-position: center -6%;
     overflow: hidden;
 }
