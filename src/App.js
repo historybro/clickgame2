@@ -48,7 +48,7 @@ class App extends Component {
               this.setState({ playing: false });
             }
           });
-          this.state.cards.sort(() => Math.random() - .9)
+          this.state.cards.sort(() => Math.random() - .7)
           return true;
         } else {
           this.gameOver();
